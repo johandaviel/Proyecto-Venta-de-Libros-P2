@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{24FE41BB-852A-4648-8539-32FE84F5DE6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VentaDeLibrosWeb", "VentaDeLibrosWeb\VentaDeLibrosWeb.csproj", "{9464C37C-6525-475A-9370-4334DC2606CD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BLL", "BLL", "{E463FA1E-B12F-4598-895C-36A4182A16B4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{1CE57F29-0EE6-45B0-9275-6020643666C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{26E90708-17A7-47FE-A2AA-47C38CDAE25E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9464C37C-6525-475A-9370-4334DC2606CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9464C37C-6525-475A-9370-4334DC2606CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9464C37C-6525-475A-9370-4334DC2606CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9464C37C-6525-475A-9370-4334DC2606CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9464C37C-6525-475A-9370-4334DC2606CD} = {24FE41BB-852A-4648-8539-32FE84F5DE6C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED236516-4BAF-4B30-8468-AFC421BE2C6F}
+	EndGlobalSection
+EndGlobal
